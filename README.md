@@ -10,6 +10,10 @@ Este projeto tem como objetivo explorar e visualizar dados globais sobre transto
 - Mapa interativo com filtros por país e transtorno
 - Previsão de tendência de prevalência até 2040 (com Random Forest Regressor)
 
+## 🧠 Fontes de Dados
+
+- [Mental Health Dataset - Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/mental-health)  
+  O conjunto de dados contém informações sobre a prevalência de diferentes transtornos mentais em países ao redor do mundo entre 1990 e 2019, com possibilidade de expandir as análises com projeções futuras.
 
 ## 🛠 Tecnologias Utilizadas
 
