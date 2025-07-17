@@ -23,7 +23,7 @@ def load_data():
 df1, df2, df5 = load_data()
 
 def load_forecast():
-    return pd.read_csv("previsoes_prevalencia_por_pais_2020_2040_arima.csv")
+    return pd.read_csv("previsoes_prevalencia_por_pais_2020_2040.csv")
 
 df_forecast = load_forecast()
 
