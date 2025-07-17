@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 st.set_page_config(layout="wide")
-st.title("🌍 Dashboard Interativo - Saúde Mental no Mundo (1990–2019)")
+st.title("🌍 Saúde Mental no Mundo (1990–2019)")
 
 # === Carregamento de dados ===
 @st.cache_data
