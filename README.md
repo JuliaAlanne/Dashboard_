@@ -20,3 +20,11 @@ Este projeto tem como objetivo explorar e visualizar dados globais sobre transto
 - [Seaborn](https://seaborn.pydata.org/)
 - [Plotly Express](https://plotly.com/python/plotly-express/)
 - [Scikit-learn](https://scikit-learn.org/stable/) (para modelos preditivos)
+
+## 🌐 Acesse o Dashboard
+
+> **Link ao vivo (Streamlit Cloud):**  
+> [https://Saude_Mental/](https://dashboard-j8smjvn7q2ui83kjiejeht.streamlit.app//)  
+
+
+---
