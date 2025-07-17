@@ -53,7 +53,7 @@ selected_transtornos = st.sidebar.multiselect(
 )
 
 # === TABS ===
-tab1, tab2 = st.tabs(["📈 Saúde Mental", "📊 Comparação de Transtornos (2020–2040)"])
+tab1, tab2 = st.tabs(["📈 Saúde Mental", "📊  Previsão Transtornos (2020–2040)"])
 
 # === TAB 1 ===
 with tab1:
